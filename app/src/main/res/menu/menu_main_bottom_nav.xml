@@ -4,24 +4,24 @@
 
     <item
         android:id="@+id/menu_main_btm_nav_home"
-        android:icon="@drawable/navi_home_icon"
-        android:title="home"/>
+        android:icon="@drawable/navi_home_resize"
+        android:title="홈"/>
 
     <item
         android:id="@+id/menu_main_btm_nav_search"
         android:icon="@drawable/navi_ranking_icon"
-        android:title="my_page"/>
+        android:title="랭킹"/>
 
     <item
         android:id="@+id/menu_main_btm_nav_video"
         android:icon="@drawable/navi_searching_icon"
-        android:title="my_page"/>
+        android:title="검색"/>
 
 
     <item
         android:id="@+id/menu_main_btm_nav_shop"
         android:icon="@drawable/navi_my_icon"
-        android:title="my_page"/>
+        android:title="마이"/>
 
 
 

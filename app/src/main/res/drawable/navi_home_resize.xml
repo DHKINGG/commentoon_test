@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navi_home_resize"
+        android:width="20.7dp"
+        android:height="19.8dp"
+        android:drawable="@drawable/navi_home_icon" />
+
+</layer-list>
